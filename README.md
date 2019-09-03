@@ -10,6 +10,6 @@ https://www.dicoding.com/academies/55
 </p>
 
 
-Aplikasi ini memanfaatkan API dari TheSportDB untuk menampilkan data.
+Aplikasi ini memanfaatkan Data dari API TheSportDB.
 
 https://www.thesportsdb.com/api.php
